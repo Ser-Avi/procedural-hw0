@@ -1,5 +1,5 @@
-import Drawable from '../../rendering/gl/Drawable'
-import {gl} from '../../globals';
+import Drawable from '../rendering/gl/Drawable'
+import {gl} from '../globals';
 import {vec3, vec4} from 'gl-matrix';
 
 class Cube extends Drawable {
