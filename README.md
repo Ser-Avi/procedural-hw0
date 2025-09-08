@@ -5,6 +5,15 @@
 </p>
 <p align="center">(source: Ken Perlin)</p>
 
+## Results
+![!\[gif.gif\]](gif.gif)
+Viewable at [this link](https://ser-avi.github.io/procedural-hw0/)
+
+Features:
+  - 3D Perlin Noise texturing in Fragment Shader
+  - Displacement with sine waves in Vertex Shader
+  - Color picker in the GUI for the noise texture
+
 ## Objective
 - Check that the tools and build configuration we will be using for the class works.
 - Start learning Typescript and WebGL2
